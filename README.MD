@@ -18,8 +18,9 @@ It has 2 parts:
    
    
    Steps to run the backend:
-- Clone the repository
-- Run the following command to build the project
+- cd to each microservice
+- Run Eureka service first of all
+- Run the following command to build in each project
 
 ```bash
     mvn clean install
