@@ -1,4 +1,4 @@
-# Food Delivery Application
+# Food Delivery Service
 
 ## Description
 This is a food delivery application with Microservice based architecture. 
